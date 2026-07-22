@@ -46,6 +46,7 @@ Current areas of interest:
 ## Contact
 
 - GitHub: [gulamovzavohir02-glitch](https://github.com/gulamovzavohir02-glitch)
+- LinkedIn: [Jasur Gulyamov](https://www.linkedin.com/in/jasur-gulyamov-195266392)
 - Email: [gulamovzavohir02@gmail.com](mailto:gulamovzavohir02@gmail.com)
 - Research: [cve-disclosures](https://github.com/gulamovzavohir02-glitch/cve-disclosures)
 
